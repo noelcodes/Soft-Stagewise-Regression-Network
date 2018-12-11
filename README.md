@@ -1,3 +1,4 @@
-# Credit to author: https://github.com/shamangary/SSR-Net
+# Credit to author: 
+https://github.com/shamangary/SSR-Net
 
-Age Prediction.
+Age Prediction using Soft Stagewise Regression Network
