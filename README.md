@@ -1,2 +1,3 @@
-# FT-and-TF
-Fine tuning and Pre-train codes
+# Credit to author: https://github.com/shamangary/SSR-Net
+
+Age Prediction.
